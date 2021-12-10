@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+
+# macOs
+.DS_Store
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
